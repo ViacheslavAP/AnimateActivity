@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animate Activity</string>
+    <string name="two_activity">Two Activity</string>
+    <string name="first_activity">First Activity</string>
+</resources>
